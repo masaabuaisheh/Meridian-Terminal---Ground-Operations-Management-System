@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\terminaloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\terminaloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\staffassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\staffassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\groundstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\groundstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|c:\\users\\user\\source\\repos\\meridianterminalops\\meridianterminalops\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194656C9-C1BB-59FA-DC3C-B38C93D01B1D}|MeridianTerminalOps\\MeridianTerminalOps.csproj|solutionrelative:meridianterminalops\\gate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TerminalOperations.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\TerminalOperations.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\TerminalOperations.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\TerminalOperations.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\TerminalOperations.cs",
+              "ViewState": "AgIAAIAAAABAY2ZmZmYnwB0BAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:04:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroundStaff.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\GroundStaff.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\GroundStaff.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\GroundStaff.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\GroundStaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:22:00.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Baggage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Baggage.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\Baggage.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Baggage.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\Baggage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:20:46.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Enums.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\Enums.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Enums.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:19:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Passenger.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\Passenger.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Passenger.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:16:45.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Gate.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\Gate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Gate.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\Gate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:15:22.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\StaffAssignment.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\StaffAssignment.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\StaffAssignment.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\StaffAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:40:19.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Program.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Program.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHACAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:12:42.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Booking.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\Booking.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Booking.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:53:49.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Flight.cs",
+              "RelativeDocumentMoniker": "MeridianTerminalOps\\Flight.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MeridianTerminalOps\\MeridianTerminalOps\\Flight.cs",
+              "RelativeToolTip": "MeridianTerminalOps\\Flight.cs",
+              "ViewState": "AgIAAAUAAADg/f////8ZwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:13:55.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

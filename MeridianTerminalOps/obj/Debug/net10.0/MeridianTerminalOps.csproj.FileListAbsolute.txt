@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\bin\Debug\net10.0\MeridianTerminalOps.exe
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\bin\Debug\net10.0\MeridianTerminalOps.deps.json
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\bin\Debug\net10.0\MeridianTerminalOps.runtimeconfig.json
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\bin\Debug\net10.0\MeridianTerminalOps.dll
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\bin\Debug\net10.0\MeridianTerminalOps.pdb
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\MeridianTerminalOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\MeridianTerminalOps.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\MeridianTerminalOps.AssemblyInfo.cs
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\MeridianTerminalOps.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\MeridianTerminalOps.sourcelink.json
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\MeridianTerminalOps.dll
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\refint\MeridianTerminalOps.dll
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\MeridianTerminalOps.pdb
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\MeridianTerminalOps.genruntimeconfig.cache
+C:\Users\user\source\repos\MeridianTerminalOps\MeridianTerminalOps\obj\Debug\net10.0\ref\MeridianTerminalOps.dll
